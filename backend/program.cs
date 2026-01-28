@@ -12,7 +12,7 @@ class Program
         string vopros = Console.ReadLine();
         if (vopros == y)
         {
-            System.Console.WriteLine("Отлично!");
+            System.Console.WriteLine("Good!");
         }
         else
         {
